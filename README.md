@@ -2,7 +2,7 @@
 
 ## I'm a student and developer!
 - ⌨ I'm currently studying software engineering in Seville
-- 🌱 I'm currently learning Angular with an Udemy course
+- 🌱 I'm currently learning React + MongoDB and SQL
 - 👯 I'm looking for new contacts and a place to do internships  
 - ♥ I love learning new things
 
